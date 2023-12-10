@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+}
+
+
+#main{
+    background-image: url('./assests/flappy_bird.jpg');
+}
