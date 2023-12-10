@@ -1,0 +1,43 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Dependency directories
+/lib/
+/vendor/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# macOS
+.DS_Store
+
+# Logs and databases
+logs/
+*.log
+*.sql
+*.sqlite
+
+# Environment variables
+.env
+
+# Compiled output
+dist/
+out/
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Other specific files
+/config/config.js
